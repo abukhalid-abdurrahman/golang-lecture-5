@@ -1,9 +1,10 @@
 package main
 
 import (
-	"fmt"
+	"fmt",
+	"pck"
 )
 
 func main() {
-	
+	fmt.Println(div(23, 3))
 }
